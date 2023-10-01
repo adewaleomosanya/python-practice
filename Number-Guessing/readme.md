@@ -16,3 +16,12 @@ It should then allow the user to try again by asking the user to input another n
 It should then ask the user if they would like to play again.
 **For Example**
 `Would you like to play again? (Enter Yes/No):`
+
+* Print out the highest and lowest attempts to the user, at the end of the game.
+**For exmaple**
+At the end of the game when you ask the user `Would you like to play again? (Enter Yes/No):`
+If the user choose `NO`
+Print out
+`It was nice playing with you`
+`Your Lowest attempt(s) is 2`
+`Your Higest attempt(s) is 5`
