@@ -18,7 +18,7 @@ It should then ask the user if they would like to play again.
 `Would you like to play again? (Enter Yes/No):`
 
 * Print out the highest and lowest attempts to the user, at the end of the game.
-**For exmaple**
+**For example**
 At the end of the game when you ask the user `Would you like to play again? (Enter Yes/No):`
 If the user choose `NO`
 Print out
